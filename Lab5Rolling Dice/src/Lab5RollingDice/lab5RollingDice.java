@@ -1,7 +1,7 @@
 package Lab5RollingDice;
 
 import java.util.Scanner;
-
+//main and only class
 public class lab5RollingDice {
 
 	public static void main(String[] args) {
